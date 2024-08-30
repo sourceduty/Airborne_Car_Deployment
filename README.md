@@ -24,6 +24,8 @@ In conclusion, the High-Speed Car Deployment System represents a groundbreaking 
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Car Analyst](https://github.com/sourceduty/Car_Analyst)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
